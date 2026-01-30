@@ -1,5 +1,5 @@
 numpy==2.4.1
-pandas==3.0.0
+pandas==2.2.3
 Pillow==12.1.0
 streamlit==1.52.1
 tensorflow==2.20.0
